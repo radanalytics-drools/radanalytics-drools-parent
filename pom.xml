@@ -4,7 +4,7 @@
 
     <groupId>io.radanalytics</groupId>
     <artifactId>radanalytics-drools-parent</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <properties>
@@ -84,7 +84,7 @@
         <repository>
             <id>ocp-nexus</id>
             <name>Minishift Nexus 3</name>
-            <url>http://nexus3-nexus3.192.168.64.70.nip.io/repository/radanalytics-drools/</url>
+            <url>http://nexus3-nexus.192.168.64.74.nip.io/repository/radanalytics-drools/</url>
         </repository>
     </distributionManagement>
 
